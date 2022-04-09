@@ -1,4 +1,5 @@
-#We have a steam heating boiler whose bursting pressure is known, but we of course want to use it only at pressures well below this limit. Our engineers recommend a safety factor of 3; that is, we should never exceed a pressure that is one-third of the rated bursting pressure.
+#We have a steam heating boiler whose bursting pressure is known, but we of course want to use it only at pressures well below this limit. 
+#Our engineers recommend a safety factor of 3; that is, we should never exceed a pressure that is one-third of the rated bursting pressure.
 #Write a program that reads in the rated bursting pressure and the current pressure, and determines if the boiler is operating at a safe pressure.
 #For example:
 #Enter the rated bursting pressure of the boiler (psi): 625
